@@ -9,6 +9,9 @@ The dashboard can be viewed on the link below:
 
 https://mateusarruda87.github.io/Module-14-Challenge/
 
-References
+References:
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. 
 Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+
+Data:
+https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
