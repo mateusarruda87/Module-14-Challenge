@@ -6,5 +6,5 @@ Project for building an interactive dashboard to explore the Belly Button Biodiv
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 The dashboard can be viewed on the link below:
-https://mateusarruda87.github.io/Module-14-Challenge/
 
+https://mateusarruda87.github.io/Module-14-Challenge/
