@@ -8,3 +8,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 The dashboard can be viewed on the link below:
 
 https://mateusarruda87.github.io/Module-14-Challenge/
+
+Data Reference: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
